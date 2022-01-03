@@ -1,2 +1,2 @@
-# 5ic-2020-2021-elaborato-finale-EliaCoro
-5ic-2020-2021-elaborato-finale-EliaCoro created by GitHub Classroom
+# elaborato finale EliaCoro
+Elaborato per l'esame di maturità 2020/21
